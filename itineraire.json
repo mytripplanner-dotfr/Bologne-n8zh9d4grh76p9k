@@ -1,0 +1,180 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🍝",
+  "titre": "Bologne : La Grasse, la Dotta, la Rossa",
+  "budget_total": "850 €",
+  "duree": "3 jours",
+  "temps_vol": "1h45 depuis Paris, France",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et premiers pas dans la \"Grassa\"",
+      "legende": "Découvrez l'âme gourmande et historique de Bologne en flânant dans ses arcades emblématiques et en vous imprégnant de l'ambiance de la Piazza Maggiore. Une journée douce pour s'acclimater et savourer les premières impressions de la ville.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>🛬 Arrivée à Bologne</strong>: Transfert depuis l'aéroport Guglielmo Marconi (BLQ) vers le centre-ville. Installation à votre hôtel pour déposer vos affaires.",
+        "<strong>🚶‍♂️ Balade sous les arcades</strong>: Promenez-vous sous les célèbres portiques de Bologne, classés au patrimoine mondial de l'UNESCO, pour une immersion douce dans la ville et ses couleurs.",
+        "<strong>🏛️ Piazza Maggiore & Quadrilatero</strong>: Explorez le cœur battant de Bologne, la majestueuse Piazza Maggiore, puis perdez-vous dans les ruelles médiévales du Quadrilatero, le quartier historique des marchés et des saveurs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Piazza Maggiore, Bologne",
+          "categorie": "Place",
+          "coords": { "lat": 44.4938, "lng": 11.3426 }
+        },
+        {
+          "nom_recherche": "Quadrilatero, Bologne",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 44.4945, "lng": 11.3440 }
+        }
+      ],
+      "illustration": "bologne_jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "Le \"Marconi Express\" est le monorail le plus rapide pour rejoindre la gare centrale de Bologne depuis l'aéroport (environ 7 minutes). C'est une option pratique et efficace."
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Chaussures confortables",
+          "texte": "Bologne se découvre idéalement à pied. Prévoyez des chaussures confortables pour profiter pleinement des longues balades sous les arcades et dans les ruelles pavées."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "📚",
+      "titre": "Culture, jardins et douceurs bolognaises",
+      "legende": "Plongez dans l'histoire intellectuelle de Bologne à l'Archiginnasio, admirez les tours emblématiques et détendez-vous dans les jardins. Une journée équilibrée entre savoir, architecture et nature urbaine pour une exploration en douceur.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>📚 Visite de l'Archiginnasio</strong>: Découvrez l'ancienne université de Bologne, son théâtre anatomique et sa magnifique bibliothèque, un lieu chargé d'histoire et de savoir qui vous transportera dans le passé.",
+        "<strong>🗼 Les Deux Tours (Le Due Torri)</strong>: Admirez les célèbres tours penchées d'Asinelli et Garisenda, symboles emblématiques de la ville. Une photo s'impose depuis leur base pour immortaliser ce monument unique.",
+        "<strong>🌳 Détente aux Giardini Margherita</strong>: Profitez d'une promenade relaxante dans le plus grand parc public de Bologne, idéal pour une pause verdoyante, un pique-nique improvisé ou simplement observer la vie locale."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Archiginnasio, Bologne",
+          "categorie": "Ancienne université",
+          "coords": { "lat": 44.4925, "lng": 11.3418 }
+        },
+        {
+          "nom_recherche": "Le Due Torri, Bologne",
+          "categorie": "Tours historiques",
+          "coords": { "lat": 44.4947, "lng": 11.3466 }
+        },
+        {
+          "nom_recherche": "Giardini Margherita, Bologne",
+          "categorie": "Parc",
+          "coords": { "lat": 44.4840, "lng": 11.3490 }
+        }
+      ],
+      "illustration": "bologne_jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Le saviez-vous ?",
+          "texte": "Bologne est surnommée \"La Dotta\" (la savante) en raison de son université, la plus ancienne du monde occidental, fondée en 1088 et toujours en activité."
+        },
+        {
+          "symbole": "🍦",
+          "titre": "Pause gourmande",
+          "texte": "Ne manquez pas de déguster une glace artisanale (gelato) après votre balade au parc. Bologne regorge d'excellents glaciers pour une pause rafraîchissante."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🛍️",
+      "titre": "Saveurs locales et départ",
+      "legende": "Imprégnez-vous des saveurs locales au marché, explorez un complexe religieux unique et profitez des dernières heures pour quelques emplettes avant votre départ. Une fin de séjour tout en douceur, riche en découvertes gustatives et culturelles.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>🛒 Visite du Mercato delle Erbe</strong>: Découvrez ce marché couvert animé, parfait pour acheter des produits locaux, des fromages ou des charcuteries pour un dernier pique-nique ou des souvenirs gourmands à rapporter.",
+        "<strong>⛪ Complexe de Santo Stefano</strong>: Explorez la \"Sette Chiese\" (Sept Églises), un ensemble architectural fascinant de bâtiments religieux qui se chevauchent, offrant une atmosphère paisible et historique unique.",
+        "<strong>✈️ Départ de Bologne</strong>: Profitez des dernières heures pour un café ou un achat de dernière minute avant de vous diriger vers l'aéroport pour votre vol retour vers Paris."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mercato delle Erbe, Bologne",
+          "categorie": "Marché couvert",
+          "coords": { "lat": 44.4965, "lng": 11.3365 }
+        },
+        {
+          "nom_recherche": "Basilica di Santo Stefano, Bologne",
+          "categorie": "Complexe religieux",
+          "coords": { "lat": 44.4930, "lng": 11.3490 }
+        }
+      ],
+      "illustration": "bologne_jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs gourmands",
+          "texte": "Le Mercato delle Erbe est l'endroit idéal pour trouver de la mortadelle, du Parmigiano Reggiano ou du vinaigre balsamique local, des cadeaux parfaits pour vos proches."
+        },
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Dernière balade",
+          "texte": "Avant de partir, offrez-vous une dernière promenade sous les arcades pour savourer l'ambiance unique de Bologne et graver ces souvenirs dans votre mémoire."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "233 €/pers (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 40 €/pers (local)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 150 €/pers (3 jours)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 300 €/pers (3 nuits, 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 120 €/pers (musées, visites)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Avril à Juin", "symbole": "🌸" },
+    { "titre": "Septembre à Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Les températures à Bologne varient de 15-25°C au printemps/automne. Prévoir des vêtements adaptés à la saison et des chaussures confortables pour la marche.", "symbole": "☀️" },
+    { "titre": "L'Euro (€) est la monnaie. Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le centre historique de Bologne est une ZTL (Zona a Traffico Limitato). Il est préférable de se déplacer à pied ou en transports en commun pour éviter les amendes.", "symbole": "🚶‍♀️" },
+    { "titre": "Le Wi-Fi est généralement disponible dans les hôtels et de nombreux cafés. Une carte SIM locale ou une eSIM peut être utile pour la navigation et les communications.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Les trois surnoms de Bologne",
+      "texte": "Bologne est affectueusement surnommée \"La Dotta\" (la savante, pour son université), \"La Grassa\" (la grasse, pour sa gastronomie riche) et \"La Rossa\" (la rouge, pour la couleur de ses toits et bâtiments, et son histoire politique)."
+    },
+    {
+      "symbole": "🤫",
+      "titre": "Les canaux cachés",
+      "texte": "Saviez-vous que Bologne était autrefois traversée par un réseau de canaux ? La plupart sont aujourd'hui couverts, mais vous pouvez encore apercevoir le \"Canale delle Moline\" à travers une petite fenêtre secrète Via Piella."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍝",
+      "titre": "Tagliatelle al Ragù",
+      "description": "Les véritables \"spaghetti bolognaise\" n'existent pas ! À Bologne, on déguste les tagliatelle fraîches, servies avec un riche ragù de viande mijoté pendant des heures, un délice incontournable."
+    },
+    {
+      "symbole": "🥟",
+      "titre": "Tortellini in Brodo",
+      "description": "Ces petites pâtes farcies à la viande, souvent servies dans un bouillon de chapon, sont un classique indémodable de la cuisine bolognaise, surtout pendant les fêtes, pour une explosion de saveurs."
+    },
+    {
+      "symbole": "🍖",
+      "titre": "Mortadella di Bologna",
+      "description": "La célèbre charcuterie rose, douce et parfumée, est originaire de Bologne. Dégustez-la en fines tranches, seule ou dans un \"panino\" pour une expérience authentique et gourmande."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-BLQ/2026-05-15/2026-05-18", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Bologne", "url": "https://www.bolognawelcome.com/fr/", "symbole": "📘" },
+    { "legende": "Transports en commun", "titre": "Tper (Transports Bologne)", "url": "https://www.tper.it/en", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Bologne", "url": "https://www.ilmeteo.it/meteo/Bologna", "symbole": "🌤️" }
+  ]
+}
